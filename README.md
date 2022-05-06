@@ -1,4 +1,4 @@
-# PPS-Github-Project
+# GFG Mandatory Task
 This program will help the teachers to upload the marks and data of student. This program calculate student's total marks, percentage, grade and result then the teacher can search the student data by their reg number, percentage and grade.
 
 ## Input student data
